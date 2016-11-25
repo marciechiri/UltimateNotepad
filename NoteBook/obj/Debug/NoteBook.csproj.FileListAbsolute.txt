@@ -1,0 +1,340 @@
+C:\Users\Ericsson_34_Guest\documents\visual studio 2015\Projects\NoteBook\NoteBook\obj\Debug\App.g.i.cs
+C:\Users\Ericsson_34_Guest\documents\visual studio 2015\Projects\NoteBook\NoteBook\obj\Debug\App.g.cs
+C:\Users\Ericsson_34_Guest\documents\visual studio 2015\Projects\NoteBook\NoteBook\obj\Debug\AddNotexaml.g.i.cs
+C:\Users\Ericsson_34_Guest\documents\visual studio 2015\Projects\NoteBook\NoteBook\obj\Debug\AddNotexaml.g.cs
+C:\Users\Ericsson_34_Guest\documents\visual studio 2015\Projects\NoteBook\NoteBook\obj\Debug\EditNote.g.i.cs
+C:\Users\Ericsson_34_Guest\documents\visual studio 2015\Projects\NoteBook\NoteBook\obj\Debug\EditNote.g.cs
+C:\Users\Ericsson_34_Guest\documents\visual studio 2015\Projects\NoteBook\NoteBook\obj\Debug\MainPage.g.i.cs
+C:\Users\Ericsson_34_Guest\documents\visual studio 2015\Projects\NoteBook\NoteBook\obj\Debug\MainPage.g.cs
+C:\Users\Ericsson_34_Guest\documents\visual studio 2015\Projects\NoteBook\NoteBook\obj\Debug\NoteLocation.g.i.cs
+C:\Users\Ericsson_34_Guest\documents\visual studio 2015\Projects\NoteBook\NoteBook\obj\Debug\NoteLocation.g.cs
+C:\Users\Ericsson_34_Guest\documents\visual studio 2015\Projects\NoteBook\NoteBook\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Ericsson_34_Guest\documents\visual studio 2015\Projects\NoteBook\NoteBook\obj\Debug\App.xaml
+C:\Users\Ericsson_34_Guest\documents\visual studio 2015\Projects\NoteBook\NoteBook\obj\Debug\EditNote.xaml
+C:\Users\Ericsson_34_Guest\documents\visual studio 2015\Projects\NoteBook\NoteBook\obj\Debug\MainPage.xaml
+C:\Users\Ericsson_34_Guest\documents\visual studio 2015\Projects\NoteBook\NoteBook\obj\Debug\NoteLocation.xaml
+C:\Users\Ericsson_34_Guest\documents\visual studio 2015\Projects\NoteBook\NoteBook\obj\Debug\App.xbf
+C:\Users\Ericsson_34_Guest\documents\visual studio 2015\Projects\NoteBook\NoteBook\obj\Debug\EditNote.xbf
+C:\Users\Ericsson_34_Guest\documents\visual studio 2015\Projects\NoteBook\NoteBook\obj\Debug\MainPage.xbf
+C:\Users\Ericsson_34_Guest\documents\visual studio 2015\Projects\NoteBook\NoteBook\obj\Debug\NoteLocation.xbf
+C:\Users\Ericsson_34_Guest\documents\visual studio 2015\Projects\NoteBook\NoteBook\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Ericsson_34_Guest\Documents\Visual Studio 2015\Projects\NoteBook\NoteBook\obj\Debug\AddNotexaml.xaml
+C:\Users\Ericsson_34_Guest\Documents\Visual Studio 2015\Projects\NoteBook\NoteBook\obj\Debug\AddNotexaml.xbf
+C:\Users\Ericsson_34_Guest\Documents\Visual Studio 2015\Projects\NoteBook\NoteBook\bin\Debug\NoteBook.exe.config
+C:\Users\Ericsson_34_Guest\Documents\Visual Studio 2015\Projects\NoteBook\NoteBook\bin\Debug\App.xbf
+C:\Users\Ericsson_34_Guest\Documents\Visual Studio 2015\Projects\NoteBook\NoteBook\bin\Debug\AddNotexaml.xbf
+C:\Users\Ericsson_34_Guest\Documents\Visual Studio 2015\Projects\NoteBook\NoteBook\bin\Debug\EditNote.xbf
+C:\Users\Ericsson_34_Guest\Documents\Visual Studio 2015\Projects\NoteBook\NoteBook\bin\Debug\MainPage.xbf
+C:\Users\Ericsson_34_Guest\Documents\Visual Studio 2015\Projects\NoteBook\NoteBook\bin\Debug\NoteLocation.xbf
+C:\Users\Ericsson_34_Guest\Documents\Visual Studio 2015\Projects\NoteBook\NoteBook\bin\Debug\NoteBook.xr.xml
+C:\Users\Ericsson_34_Guest\Documents\Visual Studio 2015\Projects\NoteBook\NoteBook\bin\Debug\NoteBook.exe
+C:\Users\Ericsson_34_Guest\Documents\Visual Studio 2015\Projects\NoteBook\NoteBook\bin\Debug\NoteBook.pdb
+C:\Users\Ericsson_34_Guest\Documents\Visual Studio 2015\Projects\NoteBook\NoteBook\bin\Debug\resources.pri
+C:\Users\Ericsson_34_Guest\Documents\Visual Studio 2015\Projects\NoteBook\NoteBook\bin\Debug\AppxManifest.xml
+C:\Users\Ericsson_34_Guest\Documents\Visual Studio 2015\Projects\NoteBook\NoteBook\bin\Debug\NoteBook.build.appxrecipe
+C:\Users\Ericsson_34_Guest\Documents\Visual Studio 2015\Projects\NoteBook\NoteBook\bin\Debug\Json.NET.Web.dll
+C:\Users\Ericsson_34_Guest\Documents\Visual Studio 2015\Projects\NoteBook\NoteBook\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Ericsson_34_Guest\Documents\Visual Studio 2015\Projects\NoteBook\NoteBook\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Ericsson_34_Guest\Documents\Visual Studio 2015\Projects\NoteBook\NoteBook\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ericsson_34_Guest\Documents\Visual Studio 2015\Projects\NoteBook\NoteBook\bin\Debug\PortableRest.dll
+C:\Users\Ericsson_34_Guest\Documents\Visual Studio 2015\Projects\NoteBook\NoteBook\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Ericsson_34_Guest\Documents\Visual Studio 2015\Projects\NoteBook\NoteBook\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Ericsson_34_Guest\Documents\Visual Studio 2015\Projects\NoteBook\NoteBook\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Ericsson_34_Guest\Documents\Visual Studio 2015\Projects\NoteBook\NoteBook\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Ericsson_34_Guest\Documents\Visual Studio 2015\Projects\NoteBook\NoteBook\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ericsson_34_Guest\Documents\Visual Studio 2015\Projects\NoteBook\NoteBook\bin\Debug\PortableRest.xml
+C:\Users\Ericsson_34_Guest\Documents\Visual Studio 2015\Projects\NoteBook\NoteBook\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Ericsson_34_Guest\Documents\Visual Studio 2015\Projects\NoteBook\NoteBook\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Ericsson_34_Guest\Documents\Visual Studio 2015\Projects\NoteBook\NoteBook\obj\Debug\NoteBook.exe
+C:\Users\Ericsson_34_Guest\Documents\Visual Studio 2015\Projects\NoteBook\NoteBook\obj\Debug\NoteBook.pdb
+C:\Users\Ericsson_34_Guest\Documents\Visual Studio 2015\Projects\NoteBook\NoteBook\obj\Debug\NoteBook.csproj.GenerateResource.Cache
+C:\Users\Ericsson_34_Guest\Documents\Visual Studio 2015\Projects\NoteBook\NoteBook\obj\Debug\priconfig.xml
+C:\Users\Ericsson_34_Guest\Documents\Visual Studio 2015\Projects\NoteBook\NoteBook\obj\Debug\priconfig.xml.intermediate
+C:\Users\Ericsson_34_Guest\Documents\Visual Studio 2015\Projects\NoteBook\NoteBook\obj\Debug\layout.resfiles
+C:\Users\Ericsson_34_Guest\Documents\Visual Studio 2015\Projects\NoteBook\NoteBook\obj\Debug\layout.resfiles.intermediate
+C:\Users\Ericsson_34_Guest\Documents\Visual Studio 2015\Projects\NoteBook\NoteBook\obj\Debug\resources.resfiles
+C:\Users\Ericsson_34_Guest\Documents\Visual Studio 2015\Projects\NoteBook\NoteBook\obj\Debug\resources.resfiles.intermediate
+C:\Users\Ericsson_34_Guest\Documents\Visual Studio 2015\Projects\NoteBook\NoteBook\obj\Debug\pri.resfiles
+C:\Users\Ericsson_34_Guest\Documents\Visual Studio 2015\Projects\NoteBook\NoteBook\obj\Debug\pri.resfiles.intermediate
+C:\Users\Ericsson_34_Guest\Documents\Visual Studio 2015\Projects\NoteBook\NoteBook\obj\Debug\qualifiers.txt
+C:\Users\Ericsson_34_Guest\Documents\Visual Studio 2015\Projects\NoteBook\NoteBook\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Ericsson_34_Guest\Documents\Visual Studio 2015\Projects\NoteBook\NoteBook\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Ericsson_34_Guest\Documents\Visual Studio 2015\Projects\NoteBook\NoteBook\obj\Debug\ProjectArchitectures.txt
+C:\Users\Ericsson_34_Guest\documents\visual studio 2015\Projects\NoteBook\NoteBook\obj\Debug\NoteBook.csprojResolveAssemblyReference.cache
+C:\Users\Ericsson_34_Guest\documents\visual studio 2015\Projects\NoteBook\NoteBook\obj\Debug\ViewNote.g.i.cs
+C:\Users\Ericsson_34_Guest\documents\visual studio 2015\Projects\NoteBook\NoteBook\obj\Debug\ViewNote.g.cs
+C:\Users\Ericsson_34_Guest\documents\visual studio 2015\Projects\NoteBook\NoteBook\obj\Debug\ViewNote.xaml
+C:\Users\Ericsson_34_Guest\documents\visual studio 2015\Projects\NoteBook\NoteBook\obj\Debug\ViewNote.xbf
+C:\Users\Ericsson_34_Guest\documents\visual studio 2015\Projects\NoteBook\NoteBook\bin\Debug\ViewNote.xbf
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\bin\Debug\NoteBook.exe.config
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\bin\Debug\App.xbf
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\bin\Debug\AddNotexaml.xbf
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\bin\Debug\EditNote.xbf
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\bin\Debug\MainPage.xbf
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\bin\Debug\NoteLocation.xbf
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\bin\Debug\ViewNote.xbf
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\bin\Debug\NoteBook.xr.xml
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\bin\Debug\NoteBook.exe
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\bin\Debug\NoteBook.pdb
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\bin\Debug\resources.pri
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\bin\Debug\AppxManifest.xml
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\bin\Debug\NoteBook.build.appxrecipe
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\bin\Debug\Json.NET.Web.dll
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\bin\Debug\PortableRest.dll
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\bin\Debug\PortableRest.xml
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\obj\Debug\NoteBook.csprojResolveAssemblyReference.cache
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\obj\Debug\App.g.i.cs
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\obj\Debug\App.g.cs
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\obj\Debug\AddNotexaml.g.i.cs
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\obj\Debug\AddNotexaml.g.cs
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\obj\Debug\EditNote.g.i.cs
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\obj\Debug\EditNote.g.cs
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\obj\Debug\MainPage.g.i.cs
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\obj\Debug\MainPage.g.cs
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\obj\Debug\NoteLocation.g.i.cs
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\obj\Debug\NoteLocation.g.cs
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\obj\Debug\ViewNote.g.i.cs
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\obj\Debug\ViewNote.g.cs
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\obj\Debug\App.xaml
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\obj\Debug\AddNotexaml.xaml
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\obj\Debug\EditNote.xaml
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\obj\Debug\MainPage.xaml
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\obj\Debug\NoteLocation.xaml
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\obj\Debug\ViewNote.xaml
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\obj\Debug\App.xbf
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\obj\Debug\AddNotexaml.xbf
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\obj\Debug\EditNote.xbf
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\obj\Debug\MainPage.xbf
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\obj\Debug\NoteLocation.xbf
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\obj\Debug\ViewNote.xbf
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\obj\Debug\NoteBook.exe
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\obj\Debug\NoteBook.pdb
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\obj\Debug\NoteBook.csproj.GenerateResource.Cache
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\obj\Debug\priconfig.xml
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\obj\Debug\priconfig.xml.intermediate
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\obj\Debug\layout.resfiles
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\obj\Debug\layout.resfiles.intermediate
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\obj\Debug\resources.resfiles
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\obj\Debug\resources.resfiles.intermediate
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\obj\Debug\pri.resfiles
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\obj\Debug\pri.resfiles.intermediate
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\obj\Debug\qualifiers.txt
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Ericsson9\Documents\Visual Studio 2015\Projects\NoteBookCC\NoteBook\obj\Debug\ProjectArchitectures.txt
+G:\New folder\NoteBookCC\NoteBook\bin\Debug\NoteBook.exe.config
+G:\New folder\NoteBookCC\NoteBook\bin\Debug\App.xbf
+G:\New folder\NoteBookCC\NoteBook\bin\Debug\AddNotexaml.xbf
+G:\New folder\NoteBookCC\NoteBook\bin\Debug\EditNote.xbf
+G:\New folder\NoteBookCC\NoteBook\bin\Debug\MainPage.xbf
+G:\New folder\NoteBookCC\NoteBook\bin\Debug\NoteLocation.xbf
+G:\New folder\NoteBookCC\NoteBook\bin\Debug\ViewNote.xbf
+G:\New folder\NoteBookCC\NoteBook\bin\Debug\NoteBook.xr.xml
+G:\New folder\NoteBookCC\NoteBook\bin\Debug\NoteBook.exe
+G:\New folder\NoteBookCC\NoteBook\bin\Debug\NoteBook.pdb
+G:\New folder\NoteBookCC\NoteBook\bin\Debug\resources.pri
+G:\New folder\NoteBookCC\NoteBook\bin\Debug\AppxManifest.xml
+G:\New folder\NoteBookCC\NoteBook\bin\Debug\Json.NET.Web.dll
+G:\New folder\NoteBookCC\NoteBook\bin\Debug\Microsoft.Threading.Tasks.dll
+G:\New folder\NoteBookCC\NoteBook\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+G:\New folder\NoteBookCC\NoteBook\bin\Debug\Newtonsoft.Json.dll
+G:\New folder\NoteBookCC\NoteBook\bin\Debug\PortableRest.dll
+G:\New folder\NoteBookCC\NoteBook\bin\Debug\System.Net.Http.Extensions.dll
+G:\New folder\NoteBookCC\NoteBook\bin\Debug\System.Net.Http.Primitives.dll
+G:\New folder\NoteBookCC\NoteBook\bin\Debug\Microsoft.Threading.Tasks.xml
+G:\New folder\NoteBookCC\NoteBook\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+G:\New folder\NoteBookCC\NoteBook\bin\Debug\Newtonsoft.Json.xml
+G:\New folder\NoteBookCC\NoteBook\bin\Debug\PortableRest.xml
+G:\New folder\NoteBookCC\NoteBook\bin\Debug\System.Net.Http.Extensions.xml
+G:\New folder\NoteBookCC\NoteBook\bin\Debug\System.Net.Http.Primitives.xml
+G:\New folder\NoteBookCC\NoteBook\obj\Debug\NoteBook.csprojResolveAssemblyReference.cache
+G:\New folder\NoteBookCC\NoteBook\obj\Debug\App.g.i.cs
+G:\New folder\NoteBookCC\NoteBook\obj\Debug\App.g.cs
+G:\New folder\NoteBookCC\NoteBook\obj\Debug\AddNotexaml.g.i.cs
+G:\New folder\NoteBookCC\NoteBook\obj\Debug\AddNotexaml.g.cs
+G:\New folder\NoteBookCC\NoteBook\obj\Debug\EditNote.g.i.cs
+G:\New folder\NoteBookCC\NoteBook\obj\Debug\EditNote.g.cs
+G:\New folder\NoteBookCC\NoteBook\obj\Debug\MainPage.g.i.cs
+G:\New folder\NoteBookCC\NoteBook\obj\Debug\MainPage.g.cs
+G:\New folder\NoteBookCC\NoteBook\obj\Debug\NoteLocation.g.i.cs
+G:\New folder\NoteBookCC\NoteBook\obj\Debug\NoteLocation.g.cs
+G:\New folder\NoteBookCC\NoteBook\obj\Debug\ViewNote.g.i.cs
+G:\New folder\NoteBookCC\NoteBook\obj\Debug\ViewNote.g.cs
+G:\New folder\NoteBookCC\NoteBook\obj\Debug\XamlTypeInfo.g.cs
+G:\New folder\NoteBookCC\NoteBook\obj\Debug\App.xaml
+G:\New folder\NoteBookCC\NoteBook\obj\Debug\AddNotexaml.xaml
+G:\New folder\NoteBookCC\NoteBook\obj\Debug\EditNote.xaml
+G:\New folder\NoteBookCC\NoteBook\obj\Debug\MainPage.xaml
+G:\New folder\NoteBookCC\NoteBook\obj\Debug\NoteLocation.xaml
+G:\New folder\NoteBookCC\NoteBook\obj\Debug\ViewNote.xaml
+G:\New folder\NoteBookCC\NoteBook\obj\Debug\App.xbf
+G:\New folder\NoteBookCC\NoteBook\obj\Debug\AddNotexaml.xbf
+G:\New folder\NoteBookCC\NoteBook\obj\Debug\EditNote.xbf
+G:\New folder\NoteBookCC\NoteBook\obj\Debug\MainPage.xbf
+G:\New folder\NoteBookCC\NoteBook\obj\Debug\NoteLocation.xbf
+G:\New folder\NoteBookCC\NoteBook\obj\Debug\ViewNote.xbf
+G:\New folder\NoteBookCC\NoteBook\obj\Debug\XamlSaveStateFile.xml
+G:\New folder\NoteBookCC\NoteBook\obj\Debug\NoteBook.exe
+G:\New folder\NoteBookCC\NoteBook\obj\Debug\NoteBook.pdb
+G:\New folder\NoteBookCC\NoteBook\obj\Debug\NoteBook.csproj.GenerateResource.Cache
+G:\New folder\NoteBookCC\NoteBook\obj\Debug\priconfig.xml
+G:\New folder\NoteBookCC\NoteBook\obj\Debug\priconfig.xml.intermediate
+G:\New folder\NoteBookCC\NoteBook\obj\Debug\layout.resfiles
+G:\New folder\NoteBookCC\NoteBook\obj\Debug\layout.resfiles.intermediate
+G:\New folder\NoteBookCC\NoteBook\obj\Debug\resources.resfiles
+G:\New folder\NoteBookCC\NoteBook\obj\Debug\resources.resfiles.intermediate
+G:\New folder\NoteBookCC\NoteBook\obj\Debug\pri.resfiles
+G:\New folder\NoteBookCC\NoteBook\obj\Debug\pri.resfiles.intermediate
+G:\New folder\NoteBookCC\NoteBook\obj\Debug\qualifiers.txt
+G:\New folder\NoteBookCC\NoteBook\obj\Debug\qualifiers.txt.intermediate
+G:\New folder\NoteBookCC\NoteBook\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+G:\New folder\NoteBookCC\NoteBook\obj\Debug\ProjectArchitectures.txt
+G:\New folder\NoteBookCC\NoteBook\bin\Debug\NoteBook.build.appxrecipe
+C:\Users\Mercy\Documents\Notebook\NoteBook\bin\Debug\NoteBook.exe.config
+C:\Users\Mercy\Documents\Notebook\NoteBook\bin\Debug\App.xbf
+C:\Users\Mercy\Documents\Notebook\NoteBook\bin\Debug\AddNotexaml.xbf
+C:\Users\Mercy\Documents\Notebook\NoteBook\bin\Debug\EditNote.xbf
+C:\Users\Mercy\Documents\Notebook\NoteBook\bin\Debug\MainPage.xbf
+C:\Users\Mercy\Documents\Notebook\NoteBook\bin\Debug\NoteLocation.xbf
+C:\Users\Mercy\Documents\Notebook\NoteBook\bin\Debug\ViewNote.xbf
+C:\Users\Mercy\Documents\Notebook\NoteBook\bin\Debug\NoteBook.xr.xml
+C:\Users\Mercy\Documents\Notebook\NoteBook\bin\Debug\NoteBook.exe
+C:\Users\Mercy\Documents\Notebook\NoteBook\bin\Debug\NoteBook.pdb
+C:\Users\Mercy\Documents\Notebook\NoteBook\bin\Debug\resources.pri
+C:\Users\Mercy\Documents\Notebook\NoteBook\bin\Debug\AppxManifest.xml
+C:\Users\Mercy\Documents\Notebook\NoteBook\bin\Debug\NoteBook.build.appxrecipe
+C:\Users\Mercy\Documents\Notebook\NoteBook\bin\Debug\Json.NET.Web.dll
+C:\Users\Mercy\Documents\Notebook\NoteBook\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Mercy\Documents\Notebook\NoteBook\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Mercy\Documents\Notebook\NoteBook\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mercy\Documents\Notebook\NoteBook\bin\Debug\PortableRest.dll
+C:\Users\Mercy\Documents\Notebook\NoteBook\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Mercy\Documents\Notebook\NoteBook\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Mercy\Documents\Notebook\NoteBook\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Mercy\Documents\Notebook\NoteBook\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Mercy\Documents\Notebook\NoteBook\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mercy\Documents\Notebook\NoteBook\bin\Debug\PortableRest.xml
+C:\Users\Mercy\Documents\Notebook\NoteBook\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Mercy\Documents\Notebook\NoteBook\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Mercy\Documents\Notebook\NoteBook\obj\Debug\NoteBook.csprojResolveAssemblyReference.cache
+C:\Users\Mercy\Documents\Notebook\NoteBook\obj\Debug\App.g.i.cs
+C:\Users\Mercy\Documents\Notebook\NoteBook\obj\Debug\App.g.cs
+C:\Users\Mercy\Documents\Notebook\NoteBook\obj\Debug\AddNotexaml.g.i.cs
+C:\Users\Mercy\Documents\Notebook\NoteBook\obj\Debug\AddNotexaml.g.cs
+C:\Users\Mercy\Documents\Notebook\NoteBook\obj\Debug\EditNote.g.i.cs
+C:\Users\Mercy\Documents\Notebook\NoteBook\obj\Debug\EditNote.g.cs
+C:\Users\Mercy\Documents\Notebook\NoteBook\obj\Debug\MainPage.g.i.cs
+C:\Users\Mercy\Documents\Notebook\NoteBook\obj\Debug\MainPage.g.cs
+C:\Users\Mercy\Documents\Notebook\NoteBook\obj\Debug\NoteLocation.g.i.cs
+C:\Users\Mercy\Documents\Notebook\NoteBook\obj\Debug\NoteLocation.g.cs
+C:\Users\Mercy\Documents\Notebook\NoteBook\obj\Debug\ViewNote.g.i.cs
+C:\Users\Mercy\Documents\Notebook\NoteBook\obj\Debug\ViewNote.g.cs
+C:\Users\Mercy\Documents\Notebook\NoteBook\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Mercy\Documents\Notebook\NoteBook\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Mercy\Documents\Notebook\NoteBook\obj\Debug\App.xaml
+C:\Users\Mercy\Documents\Notebook\NoteBook\obj\Debug\AddNotexaml.xaml
+C:\Users\Mercy\Documents\Notebook\NoteBook\obj\Debug\EditNote.xaml
+C:\Users\Mercy\Documents\Notebook\NoteBook\obj\Debug\MainPage.xaml
+C:\Users\Mercy\Documents\Notebook\NoteBook\obj\Debug\NoteLocation.xaml
+C:\Users\Mercy\Documents\Notebook\NoteBook\obj\Debug\ViewNote.xaml
+C:\Users\Mercy\Documents\Notebook\NoteBook\obj\Debug\App.xbf
+C:\Users\Mercy\Documents\Notebook\NoteBook\obj\Debug\AddNotexaml.xbf
+C:\Users\Mercy\Documents\Notebook\NoteBook\obj\Debug\EditNote.xbf
+C:\Users\Mercy\Documents\Notebook\NoteBook\obj\Debug\MainPage.xbf
+C:\Users\Mercy\Documents\Notebook\NoteBook\obj\Debug\NoteLocation.xbf
+C:\Users\Mercy\Documents\Notebook\NoteBook\obj\Debug\ViewNote.xbf
+C:\Users\Mercy\Documents\Notebook\NoteBook\obj\Debug\NoteBook.exe
+C:\Users\Mercy\Documents\Notebook\NoteBook\obj\Debug\NoteBook.pdb
+C:\Users\Mercy\Documents\Notebook\NoteBook\obj\Debug\NoteBook.csproj.GenerateResource.Cache
+C:\Users\Mercy\Documents\Notebook\NoteBook\obj\Debug\priconfig.xml
+C:\Users\Mercy\Documents\Notebook\NoteBook\obj\Debug\priconfig.xml.intermediate
+C:\Users\Mercy\Documents\Notebook\NoteBook\obj\Debug\layout.resfiles
+C:\Users\Mercy\Documents\Notebook\NoteBook\obj\Debug\layout.resfiles.intermediate
+C:\Users\Mercy\Documents\Notebook\NoteBook\obj\Debug\resources.resfiles
+C:\Users\Mercy\Documents\Notebook\NoteBook\obj\Debug\resources.resfiles.intermediate
+C:\Users\Mercy\Documents\Notebook\NoteBook\obj\Debug\pri.resfiles
+C:\Users\Mercy\Documents\Notebook\NoteBook\obj\Debug\pri.resfiles.intermediate
+C:\Users\Mercy\Documents\Notebook\NoteBook\obj\Debug\qualifiers.txt
+C:\Users\Mercy\Documents\Notebook\NoteBook\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Mercy\Documents\Notebook\NoteBook\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Mercy\Documents\Notebook\NoteBook\obj\Debug\ProjectArchitectures.txt
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\bin\Debug\NoteBook.exe.config
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\bin\Debug\App.xbf
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\bin\Debug\AddNotexaml.xbf
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\bin\Debug\EditNote.xbf
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\bin\Debug\MainPage.xbf
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\bin\Debug\NoteLocation.xbf
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\bin\Debug\ViewNote.xbf
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\bin\Debug\NoteBook.xr.xml
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\bin\Debug\NoteBook.exe
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\bin\Debug\NoteBook.pdb
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\bin\Debug\resources.pri
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\bin\Debug\AppxManifest.xml
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\bin\Debug\NoteBook.build.appxrecipe
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\bin\Debug\Json.NET.Web.dll
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\bin\Debug\PortableRest.dll
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\bin\Debug\PortableRest.xml
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\obj\Debug\NoteBook.csprojResolveAssemblyReference.cache
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\obj\Debug\App.g.i.cs
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\obj\Debug\App.g.cs
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\obj\Debug\AddNotexaml.g.i.cs
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\obj\Debug\AddNotexaml.g.cs
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\obj\Debug\EditNote.g.i.cs
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\obj\Debug\EditNote.g.cs
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\obj\Debug\MainPage.g.i.cs
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\obj\Debug\MainPage.g.cs
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\obj\Debug\NoteLocation.g.i.cs
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\obj\Debug\NoteLocation.g.cs
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\obj\Debug\ViewNote.g.i.cs
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\obj\Debug\ViewNote.g.cs
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\obj\Debug\App.xaml
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\obj\Debug\AddNotexaml.xaml
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\obj\Debug\EditNote.xaml
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\obj\Debug\MainPage.xaml
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\obj\Debug\NoteLocation.xaml
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\obj\Debug\ViewNote.xaml
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\obj\Debug\App.xbf
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\obj\Debug\AddNotexaml.xbf
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\obj\Debug\EditNote.xbf
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\obj\Debug\MainPage.xbf
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\obj\Debug\NoteLocation.xbf
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\obj\Debug\ViewNote.xbf
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\obj\Debug\NoteBook.exe
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\obj\Debug\NoteBook.pdb
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\obj\Debug\NoteBook.csproj.GenerateResource.Cache
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\obj\Debug\priconfig.xml
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\obj\Debug\priconfig.xml.intermediate
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\obj\Debug\layout.resfiles
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\obj\Debug\layout.resfiles.intermediate
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\obj\Debug\resources.resfiles
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\obj\Debug\resources.resfiles.intermediate
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\obj\Debug\pri.resfiles
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\obj\Debug\pri.resfiles.intermediate
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\obj\Debug\qualifiers.txt
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Mercy\Documents\UltimateNotepad\NoteBook\obj\Debug\ProjectArchitectures.txt
